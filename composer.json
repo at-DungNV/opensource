@@ -1,0 +1,12 @@
+{
+    "name": "kynm/hello-world",
+    "description": "this is the first composer package",
+    "authors": [
+        {
+            "name": "dungnv",
+            "email": "nobinguyen94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
