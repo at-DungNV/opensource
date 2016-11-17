@@ -1,5 +1,5 @@
 <?php
-namespace kynm\SayHello;
+namespace dungnv\Hello;
 class Hello
 {
     public static function world()
